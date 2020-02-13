@@ -1,4 +1,6 @@
 <b>To start</b>
+<p>Configure .env with MySQL credentials.</p>
+
 ```bash
 > php artisan optimize
 > php artisan migrate
