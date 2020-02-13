@@ -5,12 +5,14 @@
 > php artisan serve
 > php artisan db:seed
 ```
-<br />
+
 <b>Command:</b>
 
 ```bash
 php artisan subscribers:report {YYYY-MM-DD}
 ```
+
+<b>End-points:</b>
 
 | Method    |  End-point | Fields  | Descripction |
 | ------------ | ------------ | ------------ | ------------ |
