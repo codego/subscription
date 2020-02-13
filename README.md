@@ -3,8 +3,8 @@
 composer install
 php artisan optimize
 php artisan migrate
-php artisan db:seed
 php artisan serve
+php artisan db:seed
 ```
 <p>Enjoy...</p>
 <br />
