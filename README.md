@@ -2,6 +2,7 @@
 <p>Configure .env with MySQL credentials.</p>
 
 ```bash
+> composer install
 > php artisan optimize
 > php artisan migrate
 > php artisan serve
