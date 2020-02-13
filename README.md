@@ -9,4 +9,4 @@ php artisan serve
 <p>Enjoy...</p>
 <br />
 <b>Command:</b>
-<p>php artisan subscribers:report {YYYY-MM-DD}</p>
+<p>php artisan subscribers:report {YYYY-MM-DD}</p>.
