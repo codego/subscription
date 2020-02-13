@@ -18,5 +18,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 */
 
-Route::post('/subscription', 'SubscriptionController@store');
-Route::delete('/subscription/user/{user_id}/service/{service_id}', 'SubscriptionController@destroy');
+Route::post('/v1/subscription', 'SubscriptionController@store');
+Route::delete('/v1/subscription/user/{user_id}/service/{service_id}', 'SubscriptionController@destroy');
